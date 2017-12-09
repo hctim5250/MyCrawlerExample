@@ -20,7 +20,7 @@ public class RealPrice {
 		
 		String uri = "zip:http://plvr.land.moi.gov.tw"
 				+ "/Download?type=zip&fileName=lvr_landxml.zip"
-				+ "!/E_LVR_LAND_A.XML";
+				+ "!/B_LVR_LAND_A.XML";
 
 
 		Document jsoupDoc = CrawlerPack.start()
